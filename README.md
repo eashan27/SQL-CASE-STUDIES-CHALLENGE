@@ -13,9 +13,9 @@ Danny has shared with you 3 key datasets for this case study:
 3. members
 
 ### Questions:
-What is the total amount each customer spent at the restaurant?<br>
-How many days has each customer visited the restaurant?
-What was the first item from the menu purchased by each customer?
-What is the most purchased item on the menu and how many times was it purchased by all customers?
-Which item was purchased first by the customer after they became a member?
+****What is the total amount each customer spent at the restaurant?<br>
+How many days has each customer visited the restaurant?<br>
+What was the first item from the menu purchased by each customer?<br>
+What is the most purchased item on the menu and how many times was it purchased by all customers?<br>
+Which item was purchased first by the customer after they became a member?<br>
 Which item was purchased just before the customer became a member?
